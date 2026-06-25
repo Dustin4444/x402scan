@@ -15,7 +15,7 @@
     "@hono/node-server": "catalog:hono",
     "dotenv": "catalog:env",
     "facilitators": "workspace:*",
-    "hono": "catalog:hono",
+    "hono": "4.12.25",
     "x402-hono": "catalog:x402-v1"
   },
   "devDependencies": {
