@@ -25,7 +25,7 @@
     "@prisma/adapter-neon": "catalog:prisma",
     "@prisma/client": "catalog:prisma",
     "dotenv": "catalog:env",
-    "ws": "catalog:prisma"
+    "ws": "8.21.0"
   },
   "devDependencies": {
     "@types/node": "catalog:",
@@ -33,7 +33,7 @@
     "@x402scan/eslint-config": "workspace:*",
     "@x402scan/typescript-config": "workspace:*",
     "eslint": "catalog:",
-    "prisma": "catalog:prisma",
+    "prisma": "7.6.0",
     "rimraf": "catalog:",
     "tsup": "catalog:",
     "typescript": "catalog:"
