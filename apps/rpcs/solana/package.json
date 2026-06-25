@@ -22,7 +22,7 @@
     "@x402scan/typescript-config": "workspace:*",
     "eslint": "catalog:",
     "typescript": "catalog:",
-    "vitest": "catalog:",
-    "wrangler": "^4.2.0"
+    "vitest": "4.1.8",
+    "wrangler": "^4.102.0"
   }
 }
