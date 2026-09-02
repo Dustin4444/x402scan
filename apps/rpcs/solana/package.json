@@ -15,7 +15,7 @@
     "@cloudflare/workers-types": "^4.20240208.0",
     "@x402scan/typescript-config": "workspace:*",
     "typescript": "catalog:",
-    "vitest": "catalog:",
-    "wrangler": "^4.2.0"
+    "vitest": "4.1.8",
+    "wrangler": "^4.102.0"
   }
 }
