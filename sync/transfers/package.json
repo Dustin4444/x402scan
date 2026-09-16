@@ -31,7 +31,7 @@
     "@x402scan/typescript-config": "workspace:*",
     "trigger.dev": "catalog:trigger",
     "typescript": "catalog:",
-    "vitest": "catalog:",
+    "vitest": "4.1.8",
     "tsx": "catalog:"
   }
 }
