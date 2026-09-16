@@ -12,7 +12,7 @@
   "dependencies": {
     "@hono/node-server": "^1.13.7",
     "dotenv": "catalog:env",
-    "hono": "^4.6.14"
+    "hono": "^4.12.25"
   },
   "devDependencies": {
     "@x402scan/typescript-config": "workspace:*",
