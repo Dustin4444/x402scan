@@ -71,7 +71,7 @@ catalogs:
   trigger:
     '@trigger.dev/sdk': &TRIGGER_SDK_VERSION ^4.3.2
     '@trigger.dev/build': ^4.3.2
-    trigger.dev: ^4.3.2
+    trigger.dev: ^4.5.9
 overrides:
   '@auth/core': 0.40.0
   'viem': 2.51.2
